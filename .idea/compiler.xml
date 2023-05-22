@@ -12,11 +12,13 @@
         <module name="step3" />
         <module name="step2" />
         <module name="step1" />
+        <module name="commonService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
       <module name="cashless-external-ob-nouhu-irai-batch" target="1.8" />
       <module name="chihou" target="1.8" />
+      <module name="commonService" target="1.8" />
       <module name="commonStep4" target="1.8" />
       <module name="kokkokin" target="1.8" />
       <module name="step1" target="1.8" />
@@ -28,6 +30,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cashless-external-ob-nouhu-irai-batch" options="-parameters" />
       <module name="chihou" options="-parameters" />
+      <module name="commonService" options="-parameters" />
       <module name="commonStep4" options="-parameters" />
       <module name="kokkokin" options="-parameters" />
       <module name="step1" options="-parameters" />

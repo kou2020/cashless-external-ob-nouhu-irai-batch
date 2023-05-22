@@ -16,11 +16,11 @@
 
     <modules>
         <module>kokkokin</module>
-        <module>commonStep4</module>
         <module>step1</module>
         <module>step2</module>
         <module>step3</module>
         <module>chihou</module>
+        <module>commonService</module>
     </modules>
 
     <properties>

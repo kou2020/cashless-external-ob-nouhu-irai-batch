@@ -12,7 +12,6 @@
         <module name="step3" />
         <module name="step2" />
         <module name="step1" />
-        <module name="commonStep4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
